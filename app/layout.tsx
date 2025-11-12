@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Undangan Pernikahan — Dina & Rizky",
+  title: "Undangan Pernikahan — Hubbi & Aida",
   description: "Undangan pernikahan sederhana dibuat dengan Next.js dan Tailwind CSS",
 };
 
